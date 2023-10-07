@@ -9,6 +9,10 @@
 A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
 </h3>
 
+This is just a build for Deepin. Any code won't be changed.
+
+---
+
 ## Features
 
 - Full `clash` config supported, Partial `clash premium` config supported.
